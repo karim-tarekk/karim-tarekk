@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-tarekk&label=Profile%20views&color=0e75b6&style=flat" alt="karim-tarekk" /> </p>
 
-- 🌱 I’m currently learning **React, php**
+- 🌱 I’m currently learning **React, ASP.NET Core**
 
 - 💬 Ask me about **Frontend development, Bioinformatics, Software development**
 
